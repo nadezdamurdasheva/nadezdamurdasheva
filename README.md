@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p>🔍 Curious about how the web works and excited to keep growing as a developer.</p>
 
----
-
 ### 🛠️ Skills & Tools
 
 <p>
@@ -31,7 +29,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
 
 ### 📊 GitHub Stats
 
