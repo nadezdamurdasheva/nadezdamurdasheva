@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 
 ![Codewars](https://www.codewars.com/users/nadezdamurdasheva/badges/large)
 
+#### LeetCode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nadezdamurdasheva?theme=dark)](https://leetcode.com/nadezdamurdasheva)
+
